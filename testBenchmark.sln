@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testNet", "testNet\testNet.csproj", "{AD182066-9D9E-444C-B183-4DB6680C1AF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testNetCore", "testNetCore\testNetCore.csproj", "{D537F024-D673-4BF6-B44A-2D8BE7DB4ACA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD182066-9D9E-444C-B183-4DB6680C1AF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD182066-9D9E-444C-B183-4DB6680C1AF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD182066-9D9E-444C-B183-4DB6680C1AF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD182066-9D9E-444C-B183-4DB6680C1AF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D537F024-D673-4BF6-B44A-2D8BE7DB4ACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D537F024-D673-4BF6-B44A-2D8BE7DB4ACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D537F024-D673-4BF6-B44A-2D8BE7DB4ACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D537F024-D673-4BF6-B44A-2D8BE7DB4ACA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
